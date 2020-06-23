@@ -23,3 +23,9 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 The following animation demonstrates the application functionality:
+
+The following demonstrates the application functionality:
+
+https://matthew-neal.github.io/Work-Day-Scheduler/index
+
+<img src="./Assets.WorkSchedule.gif"></img>
