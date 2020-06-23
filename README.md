@@ -28,4 +28,5 @@ The following demonstrates the application functionality:
 
 https://matthew-neal.github.io/Work-Day-Scheduler/index
 
-<img src="WorkSchedule.gif"></img>
+![code quiz](./Assets/WorkSchedule.gif)
+
