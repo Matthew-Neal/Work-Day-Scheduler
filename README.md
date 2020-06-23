@@ -28,4 +28,4 @@ The following demonstrates the application functionality:
 
 https://matthew-neal.github.io/Work-Day-Scheduler/index
 
-<img src="./Assets.WorkSchedule.gif"></img>
+<img src="WorkSchedule.gif"></img>
